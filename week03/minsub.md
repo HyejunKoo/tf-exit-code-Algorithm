@@ -7,16 +7,16 @@
 ## 기본 정보
 
 - 이름: 윤민섭
-- 목표 문제 수:
-- 실제 풀이 문제 수:
+- 목표 문제 수: 3
+- 실제 풀이 문제 수: 3
 
 ## 푼 문제 목록
 
-| 번호 | 문제 이름 | 난이도 | 링크 | 풀이 여부 |
-| --- | --- | --- | --- | --- |
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 번호 | 문제 이름                          | 난이도    | 링크                                                                       | 풀이 여부 |
+| --- |--------------------------------|--------|--------------------------------------------------------------------------|-------|
+| 1 | Search in Rotated Sorted Array | Medium | https://leetcode.com/problems/search-in-rotated-sorted-array/description/ | O     |
+| 2 | Rotting Oranges                | Medium | https://leetcode.com/problems/rotting-oranges/description/                                                                         | O     |
+| 3 | 여행 경로                          | Level3 |                                            https://school.programmers.co.kr/learn/courses/30/lessons/43164                              | O     |
 
 ---
 
@@ -311,5 +311,5 @@ Arrays.sort(tickets, (a, b) -> {
 
 # 다음 주 목표
 
-- 목표 문제 수:
-- 집중할 유형:
+- 목표 문제 수: 3
+- 집중할 유형: 다익스트라 / 구현
